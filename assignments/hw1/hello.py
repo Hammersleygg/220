@@ -2,7 +2,7 @@
 Name: Gavin Hammersley
 hello.py
 
-Problem: print Hello, World! to the screen
+Problem: print Hello, World! to screen
 
 Certification of authenticity
 I certify that this assignment is entirely my own work.
